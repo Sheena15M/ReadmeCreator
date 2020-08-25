@@ -115,7 +115,7 @@ ${projectExample}
 This project is licensed under the ${licenseName} - see the ${licenseUrl} file for details
 ## Contributors
 ${resultContributor}
-## TestExamples
+## TestnodeExamples
 ${testExamples}
 ## Author 
 \n![ProfileImage](${gitProfileImage})
@@ -124,7 +124,7 @@ ${testExamples}
 \nLocation:${gitlocation}
 \nGitHub: ${gitUrl}
 `)
-var writeResult = fs.writeFileSync(path.join(__dirname, '../GoodReadMeGenerator', 'readMe.md'), result )
+fs.writeFileSync(path.join(process.cwd(), 'readMe.md'), result )
 console.log("file generated....")
     }
 main();
