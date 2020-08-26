@@ -18,7 +18,7 @@ Made an index.js file, created questions for the user to answer, installed inqui
 ## Instructions
 Answer each question in detail to have a Readme created for you
 ```
-<img src="readme.png"> and Screencastify video (https://drive.google.com/file/d/1ewVmmzrJmXPlDpcXyzvE6_m8QpXXw6GR/view)
+<img src="RMC.png"> and Screencastify video (https://drive.google.com/file/d/1ewVmmzrJmXPlDpcXyzvE6_m8QpXXw6GR/view)
 ```
 ## License 
 This project is licensed under the N/A - see the N/A file for details
@@ -27,14 +27,18 @@ undefined
             
  <img src="https://avatars2.githubusercontent.com/u/67716?v=4" alt="drawing" width="150" display="inline"/> No  GitHubLink: https://github.com/no
 ## TestnodeExamples
-Ran various tests in terminal to ensure functionality
+
+<img src="./RMC.png">
+
+The screencastify video (https://drive.google.com/file/d/1ewVmmzrJmXPlDpcXyzvE6_m8QpXXw6GR/view) will show you how it's used and the readme will be created once I press enter 
+
 ## Author 
 
 ![ProfileImage](https://avatars2.githubusercontent.com/u/66647497?v=4)
 
 **Sheena15M**
 
-Email: null
+Email: sheena15m@yahoo.com
 
 Location:Union
 
