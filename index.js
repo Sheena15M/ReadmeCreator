@@ -62,7 +62,7 @@ async function main (){
     console.log(`starting`);
         console.log(userResponse);
         const username = userResponse.username;
-        const projectTittle = userResponse.projectTittle;
+        const projectName = userResponse.projectName;
         const projectDescription = userResponse.projectDescription;
         const installProcess = userResponse.installProcess;
         const instruction = userResponse.instruction;
@@ -96,7 +96,7 @@ async function main (){
             \n <img src="${gitContribuProfileImage}" alt="drawing" width="150" display="inline"/> ${contributorsGitUserName}  GitHubLink: ${gitContribuUrl}`);
         }
         var result = (`
-# ${projectTittle} 
+# ${projectName} 
 ${projectDescription}
 \n* [Installation](#Installation)
 \n* [Instructions](#Instructions)
