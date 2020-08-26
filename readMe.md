@@ -35,8 +35,8 @@ The screencastify video (https://drive.google.com/file/d/1CTXWuwCvQKGzTQpnCjt2BO
 
 **Sheena15M**
 
-Email: null
+Email: sheena15m@yahoo.com
 
-Location:null
+Location: Union, NJ
 
 GitHub: https://github.com/Sheena15M
