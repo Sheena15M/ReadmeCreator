@@ -18,14 +18,13 @@ Made an index.js file, created questions for the user to answer, installed inqui
 ## Instructions
 Answer each question in detail to have a Readme created for you
 ```
-<img src="RMC.png"> and Screencastify video (https://drive.google.com/file/d/1ewVmmzrJmXPlDpcXyzvE6_m8QpXXw6GR/view)
+npm install inquirer, npm install axios
 ```
 ## License 
 This project is licensed under the N/A - see the N/A file for details
 ## Contributors
-undefined
+N/A
             
- <img src="https://avatars2.githubusercontent.com/u/67716?v=4" alt="drawing" width="150" display="inline"/> No  GitHubLink: https://github.com/no
 ## TestnodeExamples
 
 <img src="./RMC.png">
@@ -34,7 +33,7 @@ The screencastify video (https://drive.google.com/file/d/1ewVmmzrJmXPlDpcXyzvE6_
 
 ## Author 
 
-![ProfileImage](https://avatars2.githubusercontent.com/u/66647497?v=4)
+https://github.com/Sheena15M
 
 **Sheena15M**
 
